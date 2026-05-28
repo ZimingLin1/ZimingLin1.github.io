@@ -6,29 +6,28 @@
 I am a Ph.D. student in Statistics at the [https://stat.uw.edu/ University of Washington], advised by Professor [http://sites.stat.washington.edu/people/fanghan/ Fang Han].
 
 My research interests are broadly in causal inference and machine learning.
+
+Contact:\n
+Email: [ziming.lin.work@gmail.com]\n
+WeChat: lzm66178869\n
+[https://www.linkedin.com/in/ziming-lin-b45bb4251/ LinkedIn]
 ~~~
 
-== Contact
-- Email: [ziming.lin.work@gmail.com]
-- WeChat: lzm66178869
-- [https://www.linkedin.com/in/ziming-lin-b45bb4251/ LinkedIn]
-
 == Education
-- Ph.D. and M.S. in Statistics, *University of Washington*, 2023 - 2028 (expected)
-- B.S. in Mathematics and Applied Mathematics, *Zhejiang University*, 2019 - 2023
-- Visiting Student in Mathematics and Statistics, *University of Oxford*, 2021 - 2022
+- Ph.D. and M.S. in Statistics, University of Washington, 2023 - 2028 (expected)
+- B.S. in Mathematics and Applied Mathematics, Zhejiang University, 2019 - 2023
+- Visiting Student in Mathematics and Statistics, University of Oxford, 2021 - 2022
 
 == Publications and Preprints
-- [https://arxiv.org/abs/2604.17239 Bootstrap consistency for general double\/debiased machine learning estimators]\n
-*Ziming Lin* and Fang Han, 2026.
+- [https://arxiv.org/abs/2604.17239 Bootstrap consistency for general double\/debiased machine learning estimators]\n{{<u>Ziming Lin</u>}} and Fang Han, 2026.
 
-- [https://academic.oup.com/biomet/article-abstract/113/1/asag005/8460082 On the consistency of bootstrap for matching estimators]\n
-*Ziming Lin* and Fang Han. /Biometrika/, 113(1): asag005, 2026.
+- [https://academic.oup.com/biomet/article-abstract/113/1/asag005/8460082 On the consistency of bootstrap for matching estimators]\n{{<u>Ziming Lin</u>}} and Fang Han. /Biometrika/, 113(1): asag005, 2026.
 
 - [https://proceedings.mlr.press/v275/laan25a.html Stabilized Inverse Probability Weighting via Isotonic Calibration]\n
-Lars van der Laan\*, *Ziming Lin*\*, Marco Carone, and Alex Luedtke. /Proceedings of the Fourth Conference on Causal Learning and Reasoning/, PMLR 275:139-173, 2025.
+Lars van der Laan{{<sup>*</sup>}}, {{<u>Ziming Lin</u>}}{{<sup>*</sup>}}, Marco Carone, and Alex Luedtke. /Proceedings of the Fourth Conference on Causal Learning and Reasoning/, PMLR 275:139-173, 2025.\n
+(Best Paper Award)
 
-\* co-first authors.
+{{<sup>*</sup>}} co-first authors.
 
 == Presentation
 - Invited talk, Pacific Causal Inference Conference (PCIC), Beijing, July 2025
